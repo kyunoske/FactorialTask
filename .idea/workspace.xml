@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="535bf6ff-b6dc-443c-ad1e-c65b0279ac3d" name="Changes" comment="add while loop file and test">
+    <list default="true" id="535bf6ff-b6dc-443c-ad1e-c65b0279ac3d" name="Changes" comment="add new test numbers">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FactorialTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FactorialTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FactorialTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FactorialTaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662036290418</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add new test numbers">
+      <created>1662039400230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662039400230</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new number" />
     <MESSAGE value="add while loop file and test" />
-    <option name="LAST_COMMIT_MESSAGE" value="add while loop file and test" />
+    <MESSAGE value="add new test numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new test numbers" />
   </component>
 </project>
