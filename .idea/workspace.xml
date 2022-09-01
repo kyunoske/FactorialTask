@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="535bf6ff-b6dc-443c-ad1e-c65b0279ac3d" name="Changes" comment="">
+    <list default="true" id="535bf6ff-b6dc-443c-ad1e-c65b0279ac3d" name="Changes" comment="add new number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FactorialTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FactorialTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FactorialTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FactorialTaskTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +58,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FactorialTaskTest.factorialWhileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FactorialTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FactorialTaskTest" />
+      <option name="METHOD_NAME" value="factorialWhileTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.FactorialTask" />
+        <item itemvalue="JUnit.FactorialTaskTest.factorialWhileTest" />
         <item itemvalue="JUnit.FactorialTaskTest.factorialTest" />
       </list>
     </recent_temporary>
@@ -73,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662032530163</updated>
     </task>
+    <task id="LOCAL-00001" summary="add new number">
+      <created>1662035655866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662035655866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new number" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new number" />
   </component>
 </project>

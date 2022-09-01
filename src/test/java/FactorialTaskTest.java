@@ -16,4 +16,17 @@ public class FactorialTaskTest {
         //then
         assertEquals(24, actual);
     }
+
+    @Test
+    void factorialWhileTest() {
+        //given
+        int number = 5;
+
+        //when
+        long actual = FactorialTask.factorialWhile(number);
+
+
+        //then
+        assertEquals(24, actual);
+    }
 }
