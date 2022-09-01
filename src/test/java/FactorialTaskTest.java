@@ -7,7 +7,7 @@ public class FactorialTaskTest {
     @Test
     void factorialForTest() {
         //given
-        int number = 2;
+        int number = 5;
 
         //when
         long actual = FactorialTask.factorialFor(number);
