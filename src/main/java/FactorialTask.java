@@ -1,14 +1,14 @@
 public class FactorialTask {
 
     public static void main(String[] args) {
-        int number = 7;
+        int number = 10;
 
         System.out.println("For loop - factorial of " + number + " will be " + factorialFor(number));
         System.out.println("While loop - factorial of " + number + " will be " + factorialWhile(number));
     }
     public static long factorialFor(int number) {
         int factorial = 1;
-        for (int i = 2; i < number; i++) {
+        for (int i = 1; i < number; i++) {
             factorial = factorial * i;
 
         }

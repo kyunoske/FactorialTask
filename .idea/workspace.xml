@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="535bf6ff-b6dc-443c-ad1e-c65b0279ac3d" name="Changes" comment="add new number">
+    <list default="true" id="535bf6ff-b6dc-443c-ad1e-c65b0279ac3d" name="Changes" comment="add while loop file and test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/FactorialTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FactorialTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FactorialTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FactorialTaskTest.java" afterDir="false" />
@@ -40,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FactorialTask">
+  <component name="RunManager" selected="JUnit.FactorialTaskTest.factorialWhileTest">
     <configuration name="FactorialTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactorialTask" />
       <module name="FactorialTask" />
@@ -70,8 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FactorialTask" />
         <item itemvalue="JUnit.FactorialTaskTest.factorialWhileTest" />
+        <item itemvalue="Application.FactorialTask" />
         <item itemvalue="JUnit.FactorialTaskTest.factorialTest" />
       </list>
     </recent_temporary>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662035655866</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add while loop file and test">
+      <created>1662036290418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662036290418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new number" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new number" />
+    <MESSAGE value="add while loop file and test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add while loop file and test" />
   </component>
 </project>

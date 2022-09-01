@@ -20,13 +20,13 @@ public class FactorialTaskTest {
     @Test
     void factorialWhileTest() {
         //given
-        int number = 5;
+        int number = 10;
 
         //when
         long actual = FactorialTask.factorialWhile(number);
 
 
         //then
-        assertEquals(24, actual);
+        assertEquals(362880, actual);
     }
 }
